@@ -1,6 +1,6 @@
 //First, we'll require the 'http' library to use later for calling a 3rd party webservice
 var http = require("http");
-//elie 
+//elie  test 1
 //Let's say your script is expecting an http request parameter called 'myName',
 //this is how you can retrieve it
 var name = request.parameters.myName

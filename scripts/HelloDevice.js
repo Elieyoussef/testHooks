@@ -7,7 +7,7 @@ execute=anonymous
 var http = require("http");
  
 //Let's say your script is expecting an http request parameter called 'myName',
-//this is how you can retrieve it
+//this is how you can retrieve it .
 var name = request.parameters.myName
 
 //Suppose you want to make that value available to future running script instances
